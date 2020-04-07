@@ -25,3 +25,9 @@ DerivedData
 # http://stackoverflow.com/a/22323702/1013897
 #
 # Pods
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
